@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticasProceDigiIma", "PracticasProceDigiIma\PracticasProceDigiIma.csproj", "{DC2A50B6-7920-41EF-8E07-DFFAD6CD2C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cruds", "Cruds\Cruds.csproj", "{AD5BAFFA-F186-4E36-AD82-418203D90415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2A50B6-7920-41EF-8E07-DFFAD6CD2C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2A50B6-7920-41EF-8E07-DFFAD6CD2C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2A50B6-7920-41EF-8E07-DFFAD6CD2C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2A50B6-7920-41EF-8E07-DFFAD6CD2C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5BAFFA-F186-4E36-AD82-418203D90415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5BAFFA-F186-4E36-AD82-418203D90415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5BAFFA-F186-4E36-AD82-418203D90415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5BAFFA-F186-4E36-AD82-418203D90415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE249795-8A6B-4C41-81CD-259E978E6A9C}
+	EndGlobalSection
+EndGlobal

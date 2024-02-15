@@ -1,0 +1,8 @@
+D:\5toSemestre\Proce Digital Imagenes\PracticasProceDigiIma\PracticasProceDigiIma\bin\Debug\PracticasProceDigiIma.exe.config
+D:\5toSemestre\Proce Digital Imagenes\PracticasProceDigiIma\PracticasProceDigiIma\bin\Debug\PracticasProceDigiIma.exe
+D:\5toSemestre\Proce Digital Imagenes\PracticasProceDigiIma\PracticasProceDigiIma\bin\Debug\PracticasProceDigiIma.pdb
+D:\5toSemestre\Proce Digital Imagenes\PracticasProceDigiIma\PracticasProceDigiIma\obj\Debug\PracticasProceDigiIma.csproj.AssemblyReference.cache
+D:\5toSemestre\Proce Digital Imagenes\PracticasProceDigiIma\PracticasProceDigiIma\obj\Debug\PracticasProceDigiIma.csproj.SuggestedBindingRedirects.cache
+D:\5toSemestre\Proce Digital Imagenes\PracticasProceDigiIma\PracticasProceDigiIma\obj\Debug\PracticasProceDigiIma.csproj.CoreCompileInputs.cache
+D:\5toSemestre\Proce Digital Imagenes\PracticasProceDigiIma\PracticasProceDigiIma\obj\Debug\PracticasProceDigiIma.exe
+D:\5toSemestre\Proce Digital Imagenes\PracticasProceDigiIma\PracticasProceDigiIma\obj\Debug\PracticasProceDigiIma.pdb
